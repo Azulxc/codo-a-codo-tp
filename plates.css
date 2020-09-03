@@ -5,11 +5,11 @@ h1 {
 }
 
 img {
+    display: block;
+    margin: 0;
     width: 350px;
     height: auto;
     border-radius: 15px;
-    display: block;
-    margin: 0;
 }
 
 .desc {
@@ -26,9 +26,7 @@ img {
 ul {
     font-size: 20px;
     color: #383638;
-    
-    font-weight: 500;
-    
+    font-weight: 500;    
 }
 
 .ingr {
@@ -46,3 +44,8 @@ ul {
     padding-bottom: 20px;
 }
 
+.centerRecipe {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
