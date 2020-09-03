@@ -1,0 +1,50 @@
+h1 { 
+    text-align: center;
+    color: #383638;
+    padding-top: 30px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+    -moz-border-radius-topleft: 15px;
+    width: 350px; 
+    height: auto;
+    padding-top: 30px;
+}
+
+.desc {
+    font-size: 20px;
+    color: #383638;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-weight: 500;
+    display: block;
+    margin: auto;
+}
+
+ul {
+    font-size: 20px;
+    color: #383638;
+    
+    font-weight: 500;
+    
+}
+
+.ingr {
+    font-size: 20px;
+    color: #383638;
+    
+    font-weight: 500;
+    
+}
+
+.recipe {
+    display: flex;
+    flex-direction: column;
+    padding-left: 220px;
+    padding-bottom: 20px;
+}
+
