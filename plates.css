@@ -44,8 +44,3 @@ ul {
     padding-bottom: 20px;
 }
 
-.centerRecipe {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
