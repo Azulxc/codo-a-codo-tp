@@ -5,13 +5,9 @@ h1 {
 }
 
 img {
-    display: block;
-    margin: auto;
-    border-radius: 15px;
-    -moz-border-radius-topleft: 15px;
-    width: 350px; 
+    width: 350px;
     height: auto;
-    padding-top: 30px;
+    border-radius: 15px;
 }
 
 .desc {
